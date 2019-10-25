@@ -1,6 +1,6 @@
 {
   "name": "videojs-hlsjs-progress-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modify standard progress control for the better streaming experience.",
   "main": "dist/videojs-hlsjs-progress-control.cjs.js",
   "module": "dist/videojs-hlsjs-progress-control.es.js",
