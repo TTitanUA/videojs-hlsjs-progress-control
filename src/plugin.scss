@@ -56,6 +56,12 @@
       cursor: pointer;
     }
 
+    .vjs-control {
+      &.vjs-at-live-edge {
+        cursor: pointer;
+      }
+    }
+
     .vjs-progress-control {
       .vjs-load-progress {
         background-color: rgb(184, 55, 0);
