@@ -32,7 +32,7 @@ export default class CachedButtonHlsJs extends VideoJsButtonClass {
       // className: 'vjs-live-display',
       // innerHTML: 'DVR',
       className: 'vjs-seek-to-live-control',
-      innerHTML: '<span aria-hidden="true" class="vjs-icon-placeholder"></span>DVR',
+      innerHTML: '<span aria-hidden="true" class="vjs-icon-placeholder"></span>LIVE',
     }, props);
 
     attributes = Object.assign({
